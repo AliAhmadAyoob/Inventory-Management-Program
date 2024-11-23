@@ -1,1 +1,1 @@
-# Invntory-Management-Program
+# Inventory-Management-Program
