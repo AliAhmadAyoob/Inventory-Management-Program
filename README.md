@@ -1,9 +1,7 @@
 <details>
 <summary>📚 Click to expand Inventory Management Code</summary>
-<summary>💾 Inventory Management Code</summary>
 
 ```python
-# Paste your full code here
 # Inventory-Management-Program 
 
 import json
@@ -131,7 +129,7 @@ Choose an option:
                 print(f"Book indexing {count}: {items}")
                 count += 1
         sale_transaction()
-
+<details>
 greet()
 
 # etc.
