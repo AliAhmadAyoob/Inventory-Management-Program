@@ -1,4 +1,10 @@
+<details>
+<summary>📚 Click to expand Inventory Management Code</summary>
+
+```python
+# Paste your full code here
 # Inventory-Management-Program 
+
 import json
 
 dic = {
@@ -127,3 +133,4 @@ Choose an option:
 
 greet()
 
+# etc.
