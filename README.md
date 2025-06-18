@@ -1,5 +1,6 @@
 <details>
 <summary>📚 Click to expand Inventory Management Code</summary>
+<summary>💾 Inventory Management Code</summary>
 
 ```python
 # Paste your full code here
