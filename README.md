@@ -129,7 +129,6 @@ Choose an option:
                 print(f"Book indexing {count}: {items}")
                 count += 1
         sale_transaction()
-<details>
 greet()
 
 # etc.
